@@ -1,0 +1,4 @@
+#Fri Mar 11 09:19:21 PHT 2022
+base.0=/Users/fortunefaith/Desktop/projects/flutter/projects/fpv3/flutter_getx_bloc_boilerplate/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
